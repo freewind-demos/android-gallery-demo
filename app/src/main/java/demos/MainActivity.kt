@@ -1,4 +1,4 @@
-package demos
+package demos.android.gallery.demo
 
 import android.os.Bundle
 import android.widget.ArrayAdapter

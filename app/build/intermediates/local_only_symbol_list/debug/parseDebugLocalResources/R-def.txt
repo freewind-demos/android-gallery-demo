@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+id gallery
+layout activity_main
